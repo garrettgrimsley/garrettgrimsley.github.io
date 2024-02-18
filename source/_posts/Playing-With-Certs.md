@@ -1,7 +1,7 @@
 ---
 title: Playing with Certs
 date: 2023-09-20 21:07:36
-tags:
+categories: Programming
 ---
 # Certificates
 

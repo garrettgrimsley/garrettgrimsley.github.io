@@ -15,7 +15,7 @@ The Certificate input looks like so:
 
 It's straightforward enough: You enter your PEM-encoded certificate, click Decode, and the output field should populate with your certificate details. When I first tried, rather than being greeted by certificate details, I instead saw "undefined." What was going on here? My certificate was a valid and well-formed, there *should* be no reason for it to not work. I had to do some digging.
 
- The extension page had a link to the [source code](https://github.com/garrettgrimsley/nCode/tree/master) on GitHub, and reading through it lead me to this snippet:
+ The extension page had a link to the [source code](https://github.com/garrettgrimsley/nCode/tree/master) on GitHub, and reading through it led me to this snippet:
 
 ```javascript
 async function apiCertDecode(input) {

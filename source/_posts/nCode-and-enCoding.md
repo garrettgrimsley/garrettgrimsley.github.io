@@ -27,7 +27,7 @@ So, nCode is making a call out to the developer's backend to handle the decode, 
 
 ![nCode Console Screenshot. Shows Console page with various errors indicating failed network requests](./nCode-and-enCoding/nCodeConsole.png "nCode Console")
 
-Note that these screenshots may not be *exactly* what I saw, but the convey the point. I've since registered the backend domain and pointed it to my own host, so the errors may have differed prior to then.
+Note that these screenshots may not be *exactly* what I saw, but you get the point. I've since registered the backend domain and pointed it to my own host, so the errors may have differed prior to then.
 
 ![nCode Network Screenshot. Shows Network page with failed request to decode endpoint](./nCode-and-enCoding/nCodeNetwork.png "nCode Network")
 

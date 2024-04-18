@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@metaio/hexo-theme-cactus": "^3.0.0",
-    "hexo": "^7.0.0",
+    "hexo": "^7.2.0",
     "hexo-asset-link": "^2.2.3",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
